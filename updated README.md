@@ -25,6 +25,6 @@ This is a simple command-line Inventory Management System built using Python. It
    ```bash
    python inventory_management_system.py
 
-# Author
-Syed Muqeet Ali Shah
+**Syed Muqeet Ali Shah**
+[🌐 LinkedIn](https://www.linkedin.com/in/syed-muqeet-ali-shah)
 
